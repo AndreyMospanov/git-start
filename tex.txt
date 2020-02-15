@@ -1,4 +1,11 @@
-using javascript
-<
-prompt("Hello Bastard!");
-/>
+
+using System;
+
+Class Program
+{
+	static void main
+	{
+	Console.ReadLine();
+	}
+}
+
