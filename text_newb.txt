@@ -1,0 +1,3 @@
+text new branch 
+for the new branch
+end of the line
