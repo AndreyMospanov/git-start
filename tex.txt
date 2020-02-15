@@ -1,0 +1,4 @@
+using javascript
+<
+prompt("Hello Bastard!");
+/>
