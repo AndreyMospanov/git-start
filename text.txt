@@ -1,1 +1,2 @@
-Hello, World, text!
+Hello, GIT!
+Hello,Git 2!
