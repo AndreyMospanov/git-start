@@ -1,0 +1,9 @@
+using System;
+using Microsoft.Csharp
+
+Class Programm
+{
+	static void main (string argh [])
+	Console.Readline();
+	break;
+}
